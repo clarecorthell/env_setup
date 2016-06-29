@@ -1,2 +1,14 @@
 jupyter
 pandas
+matplotlib
+nltk
+boto3
+scikit-learn
+numpy
+beautifulsoup4
+textblob
+Unidecode
+virtualenv
+virtualenvwrapper
+statsmodels
+scipy
