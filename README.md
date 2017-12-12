@@ -7,7 +7,7 @@ git config --global user.email "namey@gmail.com"
 
 - [generate ssh keys](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
-`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+`ssh-keygen -t rsa -b 4096 -C "clarecorthell@gmail.com"`
 
 - [add to github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
