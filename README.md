@@ -14,7 +14,7 @@ git config --global user.email "namey@gmail.com"
 `pbcopy < ~/.ssh/id_rsa.pub`
 
 ### Install Python
-`brew install python` includes pip
+`brew install python`
 
 `brew install python3`
 
