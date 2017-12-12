@@ -18,6 +18,10 @@ git config --global user.email "namey@gmail.com"
 
 `brew install python3`
 
+pip `curl https://bootstrap.pypa.io/get-pip.py > get-pip.py`
+
+`sudo python get-pip.py`
+
 `pip install -r comp_setup/requirements.txt`
 
 `jupyter notebook --generate-config`
