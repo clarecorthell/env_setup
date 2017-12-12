@@ -5,8 +5,15 @@ git config --global user.name "Namey McNamerson"
 git config --global user.email "namey@gmail.com"
 ```
 
-- generate ssh keys
-- add to github
+- [generate ssh keys](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+
+- [add to github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+`pbcopy < ~/.ssh/id_rsa.pub`
+
+### Install Python
+`brew install python3`
 
 `pip install -r comp_setup/requirements.txt`
 
