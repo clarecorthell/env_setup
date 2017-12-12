@@ -41,3 +41,10 @@ c.InteractiveShellApp.exec_lines.append('print("Warning: disable autoreload in i
 ### Brigade setup
 
 `virtualenv --python=$~/usr/local/bin/python3 VE`
+
+`source VE/bin/activate`
+
+```
+brew install gdal --HEAD
+pip install -r requirements.txt
+```
